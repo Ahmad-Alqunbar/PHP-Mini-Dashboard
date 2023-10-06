@@ -1,0 +1,44 @@
+.login .panel-default{
+    padding: 31%;
+    margin-top: -27%;
+}
+.login .panel-body{
+    padding: 15%;
+    margin-bottom: -50%;
+    background: #fff;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+img{
+    width:100%;
+    margin-bottom:10%;
+}
+
+.login.dropdown{
+    width: 100%;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+}
+.login .dropdown button{
+    width: 100%;
+}
+.login .dropdown ul{
+    width: 100%;
+}
+/* h2{
+    color:#ffc107;
+} */
+
+@media screen and (max-width: 509px) and (min-width: 319px) {
+    .login .panel-default{
+    padding: 9%;
+    margin:20px;
+}
+.login .panel-body{
+    padding: 15%;
+    margin-bottom: -50%;
+    background: #fff;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+}
