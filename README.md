@@ -1,2 +1,2 @@
 # PHP-Mini-Dashboard
-for contact  my Email ahmada.alqunbar97@gmail.com
+for contact Email ahmada.alqunbar97@gmail.com
